@@ -30,3 +30,4 @@
 /* WB32 MCU has no default definition */
 #define I2C1_OPMODE OPMODE_I2C
 #define I2C1_CLOCK_SPEED 400000
+#define KEYMAP_SECTION_ENABLE
